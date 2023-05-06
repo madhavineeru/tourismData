@@ -1,0 +1,79 @@
+[
+
+   {
+
+        id:1,
+	      name:Manali,
+	      info:Manali is one of the most ideal hill stations situated between Nestled in between the snow-capped slopes of the Pir Panjal and the Dhauladhar ranges. It has some of the most breathtaking views, lush green forests, meadows with carpeted flowers, and gushing blue streams, a perpetual fairy-tale. It is blessed with the most extraordinary scenic beauties. Tourists, from all over the world come to visit the places for its museums to temples, from quaint little hippie villages to bustling upscale streets, river adventures to trekking trails. It is said to be one of the best tourist places in India.																																																																			
+	      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-nNXHu_oKuHxeDyvj55-bWOA3M1C_K1oAnqtl-CC6rA&s"
+   },
+   {
+
+        id:2,
+	      name:Leh Ladakh,
+	      info:Ladakh is known for its stunning Gompas (Tibetan Buddhist monasteries), fluttering prayer flags, whitewashed stupas, murals, and red-robed monks. It is one of the world's cold deserts and it is said that only a man sitting in the sun with his feet can suffer from sunstroke and frostbite at the same time.  It is one of the best tourist places in Kashmir as it is known for its culture that is similar to Tibet.  Ladakh is a land like no other as it has the Siachen Glacier and Great Himalayas. It is often called the adventure playground as people can enjoy climbing, jeep tours, rafting, and high-altitude trekking..																																																																			
+	      image:"https://img.freepik.com/free-photo/indian-travel-destination-beautiful-attractive_53876-16345.jpg?size=626&ext=jpg&ga=GA1.2.917341270.1683383085&semt=ais"
+   },
+   {
+
+        id:3,
+	      name:Coorg,
+	      info:Coorg is known as a coffee producing hill station located among the mountains in Karnataka with the misty landscapes. It is known for its amazing green hills and streams, which makes it the top tourists places in India to visit for its culture.
+             Coorg is known as Kodagu, the rich hill station in Karnataka, known for its gorgeous scenery and lush greenery. The landscapes stand out because of the forest covered hills, spice and coffee plantations. Virajpet, Kushalnagar, Gonikoppal, Pollibetta, and Somwarpet are some of the towns to visit in Coorg. One should make their trip a memorable one as it is a once in a life time experience that should never be forgotten. It is worth a visit and so, should be on the list of things to do in India.																																																																			
+	      image:"https://img.freepik.com/free-photo/aerial-shot-beautiful-green-landscape-with-high-mountains-sagada-philippines_181624-30936.jpg?size=626&ext=jpg&ga=GA1.1.917341270.1683383085&semt=sph"
+   },
+   {
+
+        id:4,
+	      name:Andaman,
+	      info:Andamans and Nicobar Islands are among the best islands in Asia where you can easily spend a romantic holiday. The deep blue waters of the ocean that are housing thousands of aquatics create and a vast colony of coral reefs attract travelers to discover the captivating beauty of one of the most magnificent places in India. There are golden beaches and luxury beach resorts where you can enjoy leisure. The serenity of the island is a hub for every vacationer who needs a tranquil escape. Discover every hidden wonder at this archipelago of 572 islands.																																																		
+	      image:https://img.freepik.com/free-photo/aerial-shot-small-green-island-middle-ocean_181624-2933.jpg?size=626&ext=jpg&ga=GA1.1.917341270.1683383085&semt=sph"
+   },
+   {
+
+        id:5,
+	      name:Goa,
+	      info:Goa, with its scheduled beaches, majestic waterfalls, and happening nightlife, is one of the best holiday destinations to visit in India. From being the hub for backpackers to the best place for bachelor parties in the world, Goa is on the list of every vacationer who loves beaches. While Goa is a thriving attraction, where there are clubs and beach parties organized, very few people know that can be the most peaceful and serene place too. There are many offbeat places and beaches that are now crowded with travelers for enjoying the mystical sunset.																																																																			
+	      image:"https://img.freepik.com/free-photo/beautiful-tropical-beach-sea-sand-with-coconut-palm-tree-blue-sky-white-cloud_74190-7479.jpg?size=626&ext=jpg&ga=GA1.1.917341270.1683383085&semt=sph"
+   },
+
+    {
+
+        id:6,
+	      name:Jaipur,
+	      info:The pink city of India, Jaipur is the most colorful amalgamation of the old and new. It was ruled by the Rajputs for years and was a planned city in the 17th century. It forms the Golden Triangle with Delhi and Agra. It is one of the tourist places lists in India, people from around the world come to shop and for its old-world charm. Jaipur has some of the most amazing forts, palaces, temples, and museums like Amer Fort and Jantar Mantar. It is filled with the bustling local markets people can shop at with their heart content.
+             Bapu Bazaar, Tripolia Bazaar, and Johri Bazaar are some of the most well-known bazaars in the city. It is also known for its local dishes like the Ghewar, Pyaaz Kachori, and Dal Baati Churma.																																																																			
+	      image:"https://www.freepik.com/free-photo/udaipur-city-view-from-hotel-balcony-rajasthan-india_3540099.htm#query=Jaipur&position=9&from_view=search&track=sph"
+   },
+    {
+
+        id:7,
+	      name:Kerala,
+	      info:If you are someone who wants to escape into nature or feel the serenity of lush green landscape blessed with pleasant weather throughout the year, then we recommend you to visit Kerala, a gem in South India and also God’s own country. One of the best places to visit in India, Kerala welcome all guests with an open heart and a plethora of lively activities which they can enjoy here. The aromatic air of the freshly grown Indian spices, clear skies, beautiful lakes, enthralling landscape and exquisite backwaters make this place a worth-visit destination in India.																																					
+	      image:"https://img.freepik.com/free-photo/beautiful-tropical-beach-sea-sand-with-coconut-palm-tree-blue-sky-white-cloud_74190-7479.jpg?size=626&ext=jpg&ga=GA1.1.917341270.1683383085&semt=sph"
+   },
+    {
+
+        id:8,
+	      name:Goa,
+	      info:Goa, with its scheduled beaches, majestic waterfalls, and happening nightlife, is one of the best holiday destinations to visit in India. From being the hub for backpackers to the best place for bachelor parties in the world, Goa is on the list of every vacationer who loves beaches. While Goa is a thriving attraction, where there are clubs and beach parties organized, very few people know that can be the most peaceful and serene place too. There are many offbeat places and beaches that are now crowded with travelers for enjoying the mystical sunset.																																																																			
+	      image:"https://img.freepik.com/free-photo/beautiful-tropical-beach-sea-sand-with-coconut-palm-tree-blue-sky-white-cloud_74190-7479.jpg?size=626&ext=jpg&ga=GA1.1.917341270.1683383085&semt=sph"
+   },
+    {
+
+        id:9,
+	      name:Rajasthan,
+	      info:One of the most culturally rich places to go in India is undoubtedly Rajasthan which is famous for its rich heritage, magnificent palaces and insightful history. The vibrant and quirky markets of Rajasthan, majestic forts, welcoming people and lively culture will lure you to spend more and more time in this state. It also makes for an ideal honeymoon destination as there are a plethora of romantic activities to enjoy here. From vast deserts to enticing lakes and hills, Rajasthan has everything in its lap to offer to the tourists.																																																																			
+	      image:"https://img.freepik.com/free-photo/arab-people-with-camel-caravan_1004-19.jpg?w=740&t=st=1683389211~exp=1683389811~hmac=b462cea65f47f789288a6c26f6bc6c283eb4f2142ea34533d79b24a855a985db"
+   },
+    {
+
+        id:10,
+	      name:Kashmir,
+	      info:One of the main tourist places in India is Kashmir which lies in the northernmost region of the country and is blessed with surreal natural beauty and myriad adventures. Kashmir offers two different experiences, one during the summers when the whole valley looks enthralling with its lush-green landscape and snow-capped mountains in the backdrop and other during the winter season when it is all covered with white snow. No matter when you plan a visit to this place, it will always offer you a blissful experience. It is known as the heaven on the Earth for a reason as it is a postcard-card perfect scenery drawn by nature.																																		
+	      image:"https://img.freepik.com/free-photo/backpacker-deogyusan-mountains-winter_335224-465.jpg?w=740&t=st=1683383917~exp=1683384517~hmac=5ec4e5f5807743cc098b0cabb862c84fefb6ad78726b9fdeccaa7a756697631b"
+   },
+
+
+
+]
